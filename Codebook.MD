@@ -1,6 +1,9 @@
 ##The dataset contains the following variables:
 
 - subject
+
+Subject is an integer variable. It contains the subject ID's (from 1 through 30).
+
 - activity                            
 - tBodyAcc-mean()-X 
 - tBodyAcc-mean()-Y                   
